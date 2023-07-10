@@ -10,6 +10,7 @@ def add_tarefa():
 
 
 st.title('Tarefas')
+st.subheader('Simples lista de tarefas')
 st.write('Acompanhamento de tarefas')
 
 
